@@ -10,6 +10,7 @@ Download instructions:
         |_  grass.py
         |_  readme.txt
         |_  raw_data
+        |_  grassnet_code_documentation.pdf
         |_  grassnet.ipynb (Not used in this boundary detect method)
 
 3. Make sure that there is relevant python version available on your computer. (Checked on version: 3.7.4)
