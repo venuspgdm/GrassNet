@@ -9,7 +9,7 @@ Download instructions:
         |_  boundary_detection.py
         |_  grass.py
         |_  readme.txt
-        |_  raw_data
+        |_  raw_data (Unzip the files if zipped)
         |_  grassnet_code_documentation.pdf
         |_  grassnet.ipynb (Not used in this boundary detect method)
 
